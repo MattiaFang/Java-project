@@ -1,5 +1,5 @@
 # Java-project
-2020/09-java课程学习
+2020/09起-java课程学习
 
 01.BMI —— 计算BMI值</br>
 02.Paymoney —— 计算贷款的月支付额、总支付额</br>
