@@ -6,3 +6,5 @@
 03.Stone —— 石头剪刀布游戏</br>
 04.Chicken —— 鸡兔同笼问题</br>
 05.Number —— 寻找完全数</br>
+06.Stock/StockDemo —— 设置股票类</br>
+07.FibQua —— 递归输出Fibonacci前20项</br>
