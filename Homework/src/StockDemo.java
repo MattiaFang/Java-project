@@ -4,6 +4,6 @@ public class StockDemo {
         stock = new Stock("600000","浦发银行");
         stock.previousPrice = 25.5;
         stock.currentPrice = 28.6;
-        System.out.println(stock.getChangePercent(stock.previousPrice,stock.currentPrice ));
+        System.out.println(stock.getChangePercent());
     }
 }
